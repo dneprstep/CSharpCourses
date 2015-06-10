@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\B_NEERC\bin\Debug\B_NEERC.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\B_NEERC\bin\Debug\B_NEERC.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\B_NEERC\bin\Debug\B_NEERC.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\B_NEERC\obj\Debug\B_NEERC.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\B_NEERC\obj\Debug\B_NEERC.pdb

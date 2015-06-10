@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\C_MinMaxSumm\bin\Debug\C_MinMaxSumm.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\C_MinMaxSumm\bin\Debug\C_MinMaxSumm.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\C_MinMaxSumm\bin\Debug\C_MinMaxSumm.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\C_MinMaxSumm\obj\Debug\C_MinMaxSumm.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\C_MinMaxSumm\obj\Debug\C_MinMaxSumm.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\C_MinMaxSumm\obj\Debug\C_MinMaxSumm.pdb
