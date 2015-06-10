@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A_DoubleFactorial\bin\Debug\A_DoubleFactorial.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A_DoubleFactorial\bin\Debug\A_DoubleFactorial.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A_DoubleFactorial\bin\Debug\A_DoubleFactorial.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A_DoubleFactorial\obj\Debug\A_DoubleFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A_DoubleFactorial\obj\Debug\A_DoubleFactorial.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A_DoubleFactorial\obj\Debug\A_DoubleFactorial.pdb

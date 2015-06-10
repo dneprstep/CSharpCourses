@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourse\Lesson1\Lesson1\A.DoubleFactorial\bin\Debug\A.DoubleFactorial.exe.config
