@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\D\bin\Debug\D.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\D\bin\Debug\D.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\D\bin\Debug\D.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\D\obj\Debug\D.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\D\obj\Debug\D.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\D\obj\Debug\D.pdb
