@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C_MinMaxSumm", "C_MinMaxSum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D", "D\D.csproj", "{7EEFC031-CDC6-43B4-9706-AADCC97ECD9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_SieveOfEratosthenes", "E_SieveOfEratosthenes\E_SieveOfEratosthenes.csproj", "{2DA24C59-D4B0-4C37-9A51-DAA44F50F61A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F_TimeSort", "F_TimeSort\F_TimeSort.csproj", "{25C9EB28-4D45-4F68-9694-5F6DC52D3345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{7EEFC031-CDC6-43B4-9706-AADCC97ECD9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EEFC031-CDC6-43B4-9706-AADCC97ECD9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EEFC031-CDC6-43B4-9706-AADCC97ECD9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DA24C59-D4B0-4C37-9A51-DAA44F50F61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA24C59-D4B0-4C37-9A51-DAA44F50F61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA24C59-D4B0-4C37-9A51-DAA44F50F61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA24C59-D4B0-4C37-9A51-DAA44F50F61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C9EB28-4D45-4F68-9694-5F6DC52D3345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C9EB28-4D45-4F68-9694-5F6DC52D3345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C9EB28-4D45-4F68-9694-5F6DC52D3345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C9EB28-4D45-4F68-9694-5F6DC52D3345}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

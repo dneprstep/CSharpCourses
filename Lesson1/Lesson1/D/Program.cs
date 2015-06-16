@@ -15,8 +15,6 @@ namespace D
             Console.Write("Enter number of judges:");
             judges = Convert.ToByte(Console.ReadLine());
 
-            Random rand=new Random();
-
 
             if (judges < 3)
                 judges = 3;

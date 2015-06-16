@@ -11,10 +11,9 @@ namespace A_DoubleFactorial
         static void Main(string[] args)
         {
             decimal num;
-
-                Console.Write("Enter number:");
-                num = Convert.ToDecimal(Console.ReadLine());
-                Console.WriteLine("({0})!!={1}", num, DFactorial(num));            
+            Console.Write("Enter number:");
+            num = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine("({0})!!={1}", num, DFactorial(num));            
         }
 
         static decimal DFactorial(decimal num)
@@ -25,9 +24,7 @@ namespace A_DoubleFactorial
                 return 0;
 
             for (int i = 0; i * 2 < num; i++)
-            {
-                    result *= (num - i * 2);
-             }
+                result *= (num - i * 2);
 
 
             return result;
