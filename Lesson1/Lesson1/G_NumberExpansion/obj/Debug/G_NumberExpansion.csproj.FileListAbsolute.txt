@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\G_NumberExpansion\bin\Debug\G_NumberExpansion.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\G_NumberExpansion\bin\Debug\G_NumberExpansion.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\G_NumberExpansion\bin\Debug\G_NumberExpansion.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\G_NumberExpansion\obj\Debug\G_NumberExpansion.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\G_NumberExpansion\obj\Debug\G_NumberExpansion.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\G_NumberExpansion\obj\Debug\G_NumberExpansion.pdb

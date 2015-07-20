@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\E_SieveOfEratosthenes\bin\Debug\E_SieveOfEratosthenes.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\E_SieveOfEratosthenes\bin\Debug\E_SieveOfEratosthenes.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\E_SieveOfEratosthenes\bin\Debug\E_SieveOfEratosthenes.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\E_SieveOfEratosthenes\obj\Debug\E_SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\E_SieveOfEratosthenes\obj\Debug\E_SieveOfEratosthenes.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\E_SieveOfEratosthenes\obj\Debug\E_SieveOfEratosthenes.pdb

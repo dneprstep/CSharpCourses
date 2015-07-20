@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson2\Interval\bin\Debug\Interval.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson2\Interval\obj\Debug\Interval.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson2\Interval\bin\Debug\Interval.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson2\Interval\bin\Debug\Interval.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson2\Interval\obj\Debug\Interval.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson2\Interval\obj\Debug\Interval.pdb

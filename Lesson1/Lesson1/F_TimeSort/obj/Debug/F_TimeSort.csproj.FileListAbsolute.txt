@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\F_TimeSort\bin\Debug\F_TimeSort.exe.config
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\F_TimeSort\bin\Debug\F_TimeSort.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\F_TimeSort\bin\Debug\F_TimeSort.pdb
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\F_TimeSort\obj\Debug\F_TimeSort.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\F_TimeSort\obj\Debug\F_TimeSort.exe
+C:\Users\Admin\Documents\GitHub\CSharpCourses\Lesson1\Lesson1\F_TimeSort\obj\Debug\F_TimeSort.pdb

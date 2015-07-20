@@ -76,6 +76,7 @@ namespace Interval
             start = end = false;
             inString.Trim();
             string[] symbols = new string[2];
+            string numbers = "0123456789";
 
             symbols = inString.Split(',');
 
@@ -104,10 +105,13 @@ namespace Interval
             }
             ///////////////////////
 
+            for (int i = 1; i < symbols[0].Length;i++ )
+            {
+                if()
+            }
 
 
-
-            result = default(int_interval);
+                result = default(int_interval);
             return true;
         }
 
